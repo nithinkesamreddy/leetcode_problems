@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0136-single-number) |
 ## Math
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
