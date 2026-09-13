@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0136-single-number) |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
