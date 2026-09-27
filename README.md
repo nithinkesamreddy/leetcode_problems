@@ -15,16 +15,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0344-reverse-string) |
 ## Sorting
