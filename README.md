@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +70,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
