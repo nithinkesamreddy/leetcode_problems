@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
