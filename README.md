@@ -96,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
