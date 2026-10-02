@@ -15,7 +15,6 @@ class Solution(object):
                 if start == nums[i]:
                     ranges.append(str(start))
                 else:
-                    # Replaced f-string with .format() for Python 2 compatibility
                     ranges.append("{}->{}".format(start, nums[i]))
                 
                 if i < len(nums) - 1:
