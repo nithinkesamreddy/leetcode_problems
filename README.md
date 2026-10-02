@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0228-summary-ranges) |
 ## Math
 |  |
 | ------- |
