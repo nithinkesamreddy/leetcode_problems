@@ -4,9 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        nums.sort()
-        for i in range(0,len(nums)-1,1):
-            if nums[i]==nums[i+1]:
+        view=set()
+        for x in nums:
+            if x in view:
                 return True
+            view.add(x)
         return False
-        
