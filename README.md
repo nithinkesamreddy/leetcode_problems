@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0228-summary-ranges) |
+| [0414-third-maximum-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0414-third-maximum-number) |
 ## Quicksort
 |  |
 | ------- |
