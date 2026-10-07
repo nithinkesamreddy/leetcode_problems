@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
@@ -38,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0414-third-maximum-number) |
 ## Quicksort
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
