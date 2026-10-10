@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0205-isomorphic-strings) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0136-single-number) |
 ## Binary Search
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0258-add-digits) |
 ## Database
 |  |
