@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0383-ransom-note) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0383-ransom-note) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0179-largest-number) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
