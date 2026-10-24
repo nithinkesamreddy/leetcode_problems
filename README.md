@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Two Pointers
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0412-fizz-buzz) |
 ## Database
 |  |
 | ------- |
