@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0415-add-strings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -172,4 +173,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0279-perfect-squares) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
