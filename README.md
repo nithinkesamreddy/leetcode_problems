@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0204-count-primes) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0279-perfect-squares) |
 ## Breadth-First Search
 |  |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0279-perfect-squares) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nithinkesamreddy/leetcode_problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
